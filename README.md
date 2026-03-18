@@ -56,12 +56,20 @@
 ## 🌐 Socials:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <a href="https://www.instagram.com/tanvisinghh_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/tanvi-singh-511963247" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  
+  <a href="mailto:tanvisinghh17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="120"/>
 </p>
-
 ---
 
 # 💻 Tech Stack:
