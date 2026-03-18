@@ -9,9 +9,9 @@
 
 ## 💫 About Me:
 
-<table border="0">
-<tr>
-<td width="65%" valign="top">
+<p align="right">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230"/>
+</p>
 
 🚀 AI/ML Engineer in progress | Building real-world intelligent systems with LLMs & Deep Learning  
 
@@ -52,18 +52,6 @@
 
 ⚡ Fun fact:
 - I’ve built AI systems across domains — from factory intelligence to finance to cultural art 🎨 → all while starting from scratch in ML 🚀  
-
-</td>
-
-<td width="35%" align="center" valign="top">
-
-<br><br><br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
