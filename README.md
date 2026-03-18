@@ -10,7 +10,8 @@
 ## 💫 About Me:
 
 <p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/><br><br>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220"/>
 </p>
 
 🚀 AI/ML Engineer in progress | Building real-world intelligent systems with LLMs & Deep Learning  
