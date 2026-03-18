@@ -1,8 +1,9 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=200&section=header&text=Tanvi%20Singh&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4B2B&size=28&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;LLM+Developer;Full+Stack+Builder;Turning+Ideas+into+Reality+🚀" />
 </p>
+
 
 
 <!-- TYPING ANIMATION -->
