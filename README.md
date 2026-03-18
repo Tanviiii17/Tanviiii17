@@ -56,21 +56,11 @@
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://www.instagram.com/tanvisinghh_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="80"/>
 </p>
-
 ---
 
 # 💻 Tech Stack:
