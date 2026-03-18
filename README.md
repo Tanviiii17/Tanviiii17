@@ -1,123 +1,114 @@
-# Hi there, I'm Tanvi 👋✨
+<!-- HEADER -->
 
-🚀 **Software Engineering Intern | AI/ML Enthusiast | Full-Stack Developer**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Tanvi%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<!-- TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Software+Engineering+Intern;AI%2FML+Enthusiast;Full+Stack+Developer;Building+Cool+Things+🚀" />
+</p>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-* 🎓 B.Tech CSE @ SRM Institute of Science and Technology
-* 💡 Passionate about **AI, LLMs, and real-world problem solving**
-* 🧠 Currently working on **sound localization & intelligent systems**
-* 🌱 Exploring **Deep Learning, Generative AI & scalable systems**
+* 🎓 B.Tech CSE @ SRM
+* 🤖 Into **AI, LLMs & Real-world systems**
+* 🚀 Built projects in **ML, Full Stack & Generative AI**
+* 🌱 Currently exploring **Deep Learning + Scalable Systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python | Java | C++ | JavaScript | SQL
-
-**AI/ML:**
-Machine Learning | Deep Learning | Generative AI | Model Optimization
-
-**Web & Tools:**
-React | Flask | Node.js | Streamlit | Git | Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,git,linux,mysql" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Software Engineering Intern
+* 🏢 **Software Engineering Intern**
+  → Built Factory GPT + LLM analytics platform
 
-* Built **Factory GPT** for natural language-based factory insights
-* Developed **LLM-powered analytics platform** with OCR + multi-format support
-* Reduced token usage by **70%** using optimized pipelines
-
-### 🔬 Research Intern (Samsung PRISM)
-
-* Built **on-device sound localization model**
-* Processed **34,000+ real-world audio samples**
-* Improved model accuracy from **72% → 80%**
+* 🔬 **Samsung PRISM Research Intern**
+  → Sound localization model (80% accuracy)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏭 Nokia Factory GPT
+
+* Built an internal **LLM-powered system** for natural language access to factory data
+* Enabled users to query insights without direct database interaction
+* Implemented **RAG-based pipeline** and optimized token usage by 70%
+
+---
+
 ### 🤖 Zara – Voice Assistant
 
-* Built a virtual assistant supporting **voice commands, web search, weather, news, and automation**
-* Integrated speech recognition with intelligent response handling
-* Designed to perform real-time tasks with a seamless user experience
+* Developed a voice-controlled assistant supporting **web search, weather, news, and automation**
+* Integrated speech recognition with real-time response handling
 
 ---
 
 ### 🎨 KolamVision – AI-Powered Kolam Analyzer & Generator
 
-* Developed an AI system to **analyze traditional Kolam patterns and generate new designs**
+* Designed an AI system to **analyze traditional Kolam patterns and generate new designs**
 * Combines cultural heritage with modern AI techniques
-* Focused on pattern recognition and generative modeling
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Zara – Voice Assistant
-
-* Built a virtual assistant supporting **voice commands, web search, weather, news, and automation**
-* Integrated speech recognition with intelligent response handling
-* Designed to perform real-time tasks with a seamless user experience
-
----
-
-### 🎨 KolamVision – AI-Powered Kolam Analyzer & Generator
-
-* Developed an AI system to **analyze traditional Kolam patterns and generate new designs**
-* Combines cultural heritage with modern AI techniques
-* Focused on pattern recognition and generative modeling
 
 ---
 
 ### 💰 WealthWise – AI Financial Advisor
 
-* Full-stack AI platform (React + Flask)
-* Real-time Indian market insights + portfolio recommendations
+* Built a full-stack AI platform (React + Flask) for **real-time financial insights**
+* Integrated AI-driven portfolio recommendations
 
 ---
 
 ### ⚡ EV Charging Station Locator
 
-* Real-time availability tracking for 100+ stations
-* Reduced search time by 40%
+* Developed a system mapping **100+ stations with real-time availability**
+* Reduced user search time by ~40%
 
 ---
 
 ### 📊 Student Adaptability Predictor
 
-* ML model improving accuracy from 67% → 85%
-* Flask web app for predictions
+* Built an ML model improving accuracy from **67% → 85%**
+* Deployed via Flask for real-time predictions
+
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-* Machine Learning Specialization (Stanford & DeepLearning.AI)
-* Oracle Cloud Generative AI Professional
-* OCI Foundations Associate
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanviiii17&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanviiii17&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanviiii17&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/tanvi-singh-511963247
-* 📧 Email: [tanvisinghh17@gmail.com](mailto:tanvisinghh17@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/tanvi-singh-511963247"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:tanvisinghh17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-## ✨ Fun Touch
-
-![Coding Girl](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
-
----
-
-⭐ *"Building intelligent systems that make real-world impact."*
+✨ *“Building intelligent systems that make real-world impact.”*
