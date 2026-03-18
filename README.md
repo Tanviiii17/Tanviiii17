@@ -1,8 +1,9 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Tanvi%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:ff4b2b&height=200&section=header&text=Tanvi%20Singh&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
+
 
 <!-- TYPING ANIMATION -->
 
