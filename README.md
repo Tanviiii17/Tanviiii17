@@ -9,9 +9,9 @@
 
 ## 💫 About Me:
 
-<table>
+<table border="0">
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 🚀 AI/ML Engineer in progress | Building real-world intelligent systems with LLMs & Deep Learning  
 
@@ -55,8 +55,12 @@
 
 </td>
 
-<td width="35%" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+<td width="35%" align="center" valign="top">
+
+<br><br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230"/>
+
 </td>
 </tr>
 </table>
